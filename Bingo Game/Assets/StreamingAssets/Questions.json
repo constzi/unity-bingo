@@ -1,0 +1,1896 @@
+{
+  "Questions": [
+    {
+      "id": 1001,
+      "question": "What Super Food Star is red, can help your heart, and starts with the letter T.",
+      "questionAudio": "QuestionText/q-1001",
+      "level": 1,
+      "seconds": 10,
+      "correctAnswers": [ 0, 807 ],
+      "helpText1": "Red foods such as tomatos, red grapes, and watermelon can help your heart and blood.",
+      "helpImage1": "Tiles/TomTomato",
+      "helpText2": "These fruits sometimes have a sour punch because they are so full of vitamin C.  Red Phytonutrient: Lycopene",
+      "helpImage2": "HintImages/hint-circulatory"
+    },
+    {
+      "id": 1002,
+      "question": "What Super Food Star is green, can help your bones, and starts with the letter B.",
+      "questionAudio": "QuestionText/q-1002",
+      "level": 1,
+      "seconds": 10,
+      "correctAnswers": [ 0, 802 ],
+      "helpText1": "Green foods such as spinach, kale and broccoli can help keep your bones strong.",
+      "helpImage1": "Tiles/BroccoliBro",
+      "helpText2": "Green foods contain Calcium and Magnesium, key components of bone health. Key Phytonutrients: EGCG and Lutein.",
+      "helpImage2": "drunk"
+    },
+    {
+      "id": 1003,
+      "question": "What Super Food Star is blue, can help your brain, and starts with the letter B.",
+      "questionAudio": "QuestionText/q-1003",
+      "level": 1,
+      "seconds": 10,
+      "correctAnswers": [ 0, 801 ],
+      "helpText1": "Blue, Purple/Black Foods like blueberries, blackberries black walnuts can help your brain and memory.",
+      "helpImage1": "Tiles/BBlueberry",
+      "helpText2": "These are Antioxidant/Omega rich foods and can help brain deficits like balance, short term memory loss and coordination.",
+      "helpImage2": "HintImages/hint-brain"
+    },
+    {
+      "id": 1004,
+      "question": "What Super Food Star is orange, can help your eyes, and starts with the letter C.",
+      "questionAudio": "QuestionText/q-1004",
+      "level": 1,
+      "seconds": 10,
+      "correctAnswers": [ 0, 808 ],
+      "helpText1": "Orange/Yellow fruits and vegetables such as carrots, oranges and squash can help your eyes.",
+      "helpImage1": "Tiles/XTheCarrot",
+      "helpText2": "Key Phytonutrients: beta-carotene and Lutein.  Beta Carotene is necessary for proper eye function in dim light. Lutein is a carotenoid that helps absorb blue light. This process is critical to vision. ",
+      "helpImage2": "HintImages/hint-eye"
+
+    },
+    {
+      "id": 1005,
+      "question": "What Super Food Star is white, can help your lungs, and starts with the letter O.",
+      "questionAudio": "QuestionText/q-1005",
+      "level": 1,
+      "seconds": 10,
+      "correctAnswers": [ 0, 313, 809 ],
+      "helpText1": "White and Beige Foods like onions, garlic and ginger can help your lungs stay strong and clear of germs.",
+      "helpImage1": "HintImages/hint-character-onion",
+      "helpText2": "White foods contain Vitamin A, a retinoid that can help maintain active levels of circulating natural “killer” cells, which have antiviral properties. Also helps support the lining of the respiratory tract.  White Phytonutrient: quercetin.",
+      "helpImage2": "HintImages/hint-lungs"
+
+    },
+    {
+      "id": 1006,
+      "question": "What Super Food Star is white, can help your lungs, and starts with the letter G.",
+      "questionAudio": "QuestionText/q-1006",
+      "level": 1,
+      "seconds": 10,
+      "correctAnswers": [ 0, 811, 313 ],
+      "helpText1": "White and Beige Foods like onions, garlic and ginger can help your lungs stay strong and clear of germs.",
+      "helpImage1": "HintImages/hint-character-garlic",
+      "helpText2": "White foods contain Vitamin A, a retinoid that can help maintain active levels of circulating natural “killer” cells, which have antiviral properties. Also helps support the lining of the respiratory tract.  White Phytonutrient: quercetin.",
+      "helpImage2": "HintImages/hint-lungs"
+
+    },
+    {
+      "id": 1007,
+      "question": "Which fruits and vegetables start with the letter B.",
+      "questionAudio": "QuestionText/q-1007",
+      "level": 1,
+      "seconds": 14,
+      "correctAnswers": [ 0, 801, 802, 102, 103, 203, 304, 306, 401, 402, 503 ],
+      "helpText1": "Examples include beets, bell peppers, butternut squash, bok choy, Brussels Sprouts.",
+      "helpImage1": "HintImages/hint-bro",
+      "helpText2": "",
+      "helpImage2": "HintImages/hint-b-blueberry"
+
+    },
+    {
+      "id": 1008,
+      "question": "Which fruits and vegetables start with the letter C.",
+      "questionAudio": "QuestionText/q-1008",
+      "level": 1,
+      "seconds": 14,
+      "correctAnswers": [ 0, 104, 105, 204, 205, 307, 308, 309, 310, 311, 403, 504, 505, 506 ],
+      "helpText1": "Examples include cherries, cranberries, cantaloupe, cactus, cabbage, celery, and cucumber.  ",
+      "helpImage1": "HintImages/hint-x-carrot",
+      "helpText2": "",
+      "helpImage2": "HintImages/hint-choco-bar"
+
+    },
+    {
+      "id": 1009,
+      "question": "Which fruits and vegetables start with the letter L.",
+      "questionAudio": "QuestionText/q-1009",
+      "level": 1,
+      "seconds": 14,
+      "correctAnswers": [ 0, 206, 317, 318, 319 ],
+      "helpText1": "Examples include lemon, lettuce, lime, and lima beans.",
+      "helpImage1": "HintImages/hint-lime",
+      "helpText2": "",
+      "helpImage2": "HintImages/hint-lettuce"
+
+    },
+    {
+      "id": 1010,
+      "question": "Which fruits and vegetables start with the letter O.",
+      "questionAudio": "QuestionText/q-1010",
+      "level": 1,
+      "seconds": 14,
+      "correctAnswers": [ 0, 810, 209, 320 ],
+      "helpText1": "Examples include orange, okra and onion.",
+      "helpImage1": "HintImages/hint-character-onion",
+      "helpText2": "",
+      "helpImage2": "HintImages/hint-orange-juice"
+
+    },
+    {
+      "id": 1011,
+      "question": "Which fruits and vegetables start with the letter G.",
+      "questionAudio": "QuestionText/q-1011",
+      "level": 1,
+      "seconds": 14,
+      "correctAnswers": [ 0, 811, 106, 107, 111, 312, 313, 412, 508 ],
+      "helpText1": "Examples include grapefruit, grapes, green beans, ginger, and guava.",
+      "helpImage1": "HintImages/hint-character-garlic",
+      "helpText2": "",
+      "helpImage2": "HintImages/hint-guava"
+
+    },
+    {
+      "id": 1012,
+      "question": "Which fruits and vegetables start with the letter T.",
+      "questionAudio": "QuestionText/q-1012",
+      "level": 1,
+      "seconds": 14,
+      "correctAnswers": [ 0, 807, 219 ],
+      "helpText1": "Examples include tomato and tangerine.",
+      "helpImage1": "HintImages/hint-character-tom-heart",
+      "helpText2": "",
+      "helpImage2": "HintImages/hint-tom-heart-family"
+
+    },
+
+    {
+      "id": 1013,
+      "question": "Pick fruits or vegetables that can help your heart.",
+      "questionAudio": "QuestionText/q-1013",
+      "level": 1,
+      "seconds": 14,
+      "correctAnswers": [ 0, 101, 102, 103, 104, 105, 106, 107, 108, 109, 110, 111, 112, 113, 114, 115, 116, 117, 807 ],
+      "helpText1": "Red foods such as tomatos, red grapes, and watermelon can help your heart and blood.",
+      "helpImage1": "Tiles/TomTomato",
+      "helpText2": "These fruits sometimes have a sour punch because they are so full of vitamin C.  Red Phytonutrient: Lycopene",
+      "helpImage2": "HintImages/hint-circulatory"
+    },
+    {
+      "id": 1014,
+      "question": "Pick fruits or vegetables that can help your eyes.",
+      "questionAudio": "QuestionText/q-1014",
+      "level": 1,
+      "seconds": 14,
+      "correctAnswers": [ 0, 201, 202, 203, 204, 205, 206, 207, 208, 209, 210, 211, 212, 213, 214, 215, 216, 217, 218, 219, 220, 808 ],
+      "helpText1": "Orange/Yellow fruits and vegetables such as carrots, oranges and squash can help your eyes.",
+      "helpImage1": "Tiles/XTheCarrot",
+      "helpText2": "Key Phytonutrients: beta-carotene and Lutein.  Beta Carotene is necessary for proper eye function in dim light. Lutein is a carotenoid that helps absorb blue light. This process is critical to vision. ",
+      "helpImage2": "HintImages/hint-eye"
+    },
+    {
+      "id": 1015,
+      "question": "Pick fruits or vegetables that can help your bones.",
+      "questionAudio": "QuestionText/q-1015",
+      "level": 1,
+      "seconds": 14,
+      "correctAnswers": [ 0, 301, 302, 303, 304, 305, 306, 307, 308, 309, 310, 311, 312, 313, 314, 315, 316, 317, 318, 319, 320, 321, 322, 323, 324, 325, 326, 327, 802 ],
+      "helpText1": "Green foods such as spinach, kale and broccoli can help keep your bones strong.",
+      "helpImage1": "Tiles/BroccoliBro",
+      "helpText2": "Green foods contain Calcium and Magnesium, key components of bone health. Key Phytonutrients: EGCG and Lutein.",
+      "helpImage2": "HintImages/hint-bones"
+    },
+    {
+      "id": 1016,
+      "question": "Pick fruits or vegetables that can help your brain.",
+      "questionAudio": "QuestionText/q-1016",
+      "level": 1,
+      "seconds": 14,
+      "correctAnswers": [ 0, 401, 402, 403, 404, 405, 406, 407, 408, 409, 410, 411, 412, 413, 414, 415, 801 ],
+      "helpText1": "Blue, Purple/Black Foods like blueberries, blackberries black walnuts can help your brain and memory",
+      "helpImage1": "Tiles/BBlueberry",
+      "helpText2": "These are Antioxidant/Omega rich foods and can help brain deficits like balance, short term memory loss and coordination.",
+      "helpImage2": "HintImages/hint-brain"
+    },
+    {
+      "id": 1017,
+      "question": "Pick foods that can help your lungs.",
+      "questionAudio": "QuestionText/q-1017",
+      "level": 1,
+      "seconds": 14,
+      "correctAnswers": [ 0, 101, 113, 313, 501, 502, 503, 504, 505, 506, 507, 508, 509, 510, 511, 512, 513, 809 ],
+
+      "helpText1": "White and Beige Foods like onions, garlic and ginger can help your lungs stay strong and clear of germs.",
+      "helpImage1": "HintImages/Lill",
+      "helpText2": "White foods contain Vitamin A, a retinoid that can help maintain active levels of circulating natural “killer” cells, which have antiviral properties. Also helps support the lining of the respiratory tract.  White Phytonutrient: quercetin.",
+      "helpImage2": "HintImages/hint-lungs"
+    },
+    {
+      "id": 1018,
+      "question": "What vegetable starts with the letter 'Z'.",
+      "questionAudio": "QuestionText/q-1018",
+      "level": 1,
+      "seconds": 14,
+      "correctAnswers": [ 0, 326 ],
+
+      "helpText1": "Zucchini.",
+      "helpImage1": "HintImages/hint-letter-z",
+      "helpText2": "Zucchinis were brought to the United States in the 1920s from Italy.  The zucchini flower is edible.",
+      "helpImage2": "HintImages/hint-zucchini"
+    },
+    {
+      "id": 1019,
+      "question": "What fruit starts with the letter 'F'.",
+      "questionAudio": "QuestionText/q-1019",
+      "level": 1,
+      "seconds": 14,
+      "correctAnswers": [ 0, 326 ],
+
+      "helpText1": "Figs.",
+      "helpImage1": "HintImages/hint-letter-f",
+      "helpText2": "Fig trees do not flower.  Their fruit is actually the flower.",
+      "helpImage2": "HintImages/hint-figs"
+    },
+    {
+      "id": 1020,
+      "question": "What fruit starts with the letter 'W'.",
+      "questionAudio": "QuestionText/q-1020",
+      "level": 1,
+      "seconds": 14,
+      "correctAnswers": [ 0, 326 ],
+
+      "helpText1": "Watermelon.",
+      "helpImage1": "HintImages/hint-letter-w",
+      "helpText2": "Watermelons are 92% water, are red, help your heart.  They are perfect to eat during the hot summer months!",
+      "helpImage2": "HintImages/hint-watermelon"
+    },
+
+
+
+    {
+      "id": 2001,
+      "question": "Which fruits can help your heart and start with the letter C?",
+      "questionAudio": "QuestionText/q-2001",
+      "level": 2,
+      "seconds": 11,
+      "correctAnswers": [ 0, 104, 105, 110 ],
+
+      "helpText1": "One of these fruits has a pit, the other fruit is very sour.",
+      "helpImage1": "HintImages/hint-cherrypie",
+      "helpText2": "These fruits sometimes have a sour punch because they are so full of vitamin C.  Red Phytonutrient: Lycopene",
+      "helpImage2": "HintImages/hint-cranberry"
+    },
+    {
+      "id": 2002,
+      "question": "Which foods can help your heart and start with the letter P?",
+      "questionAudio": "QuestionText/q-2002",
+      "level": 2,
+      "seconds": 11,
+      "correctAnswers": [ 0, 103, 108, 117 ],
+
+      "helpText1": "Two of these foods have many small seeds and one has a pit.",
+      "helpImage1": "HintImages/hint-pomegranate",
+      "helpText2": "These fruits sometimes have a sour punch because they are so full of vitamin C.  Red Phytonutrient: Lycopene",
+      "helpImage2": "HintImages/hint-chilis"
+    },
+    {
+      "id": 2003,
+      "question": "Which vegetables can help your eyes and start with the letter S?",
+      "questionAudio": "QuestionText/q-2003",
+      "level": 2,
+      "seconds": 11,
+      "correctAnswers": [ 0, 217, 218, 203 ],
+
+      "helpText1": "One of these foods is much more sweet than the other.",
+      "helpImage1": "HintImages/hint-sweetpotato",
+      "helpText2": "Key Phytonutrients: beta-carotene and Lutein.  Beta Carotene is necessary for proper eye function in dim light. Lutein is a carotenoid that helps absorb blue light. This process is critical to vision.",
+      "helpImage2": "HintImages/hint-squash"
+    },
+    {
+      "id": 2004,
+      "question": "Which foods can help your eyes and start with the letter P?",
+      "questionAudio": "QuestionText/q-2004",
+      "level": 2,
+      "seconds": 11,
+      "correctAnswers": [ 0, 210, 211, 212, 213, 214, 215, 216, 220 ],
+
+      "helpText1": "Papaya is one example, pineapple is another.",
+      "helpImage1": "HintImages/hint-pumpkin",
+      "helpText2": "Key Phytonutrients: beta-carotene and Lutein.  Beta Carotene is necessary for proper eye function in dim light. Lutein is a carotenoid that helps absorb blue light. This process is critical to vision.",
+      "helpImage2": "HintImages/hint-papaya"
+    },
+    {
+      "id": 2005,
+      "question": "Which foods can help your bones and start with the letter K?",
+      "questionAudio": "QuestionText/q-2005",
+      "level": 2,
+      "seconds": 11,
+      "correctAnswers": [ 0, 315, 316 ],
+
+      "helpText1": "One of these green foods has seeds and the other is a leaf.",
+      "helpImage1": "HintImages/hint-kiwi",
+      "helpText2": "Green foods contain Calcium and Magnesium, key components of bone health. Key Phytonutrients: EGCG and Lutein.",
+      "helpImage2": "HintImages/hint-kale"
+    },
+    {
+      "id": 2006,
+      "question": "Which vegetables can help your bones and start with the letter C?",
+      "questionAudio": "QuestionText/q-2006",
+      "level": 2,
+      "seconds": 11,
+      "correctAnswers": [ 0, 307, 308, 309, 310, 311 ],
+
+      "helpText1": "One of these is a long stem, one is round in shape.",
+      "helpImage1": "HintImages/hint-celery",
+      "helpText2": "Green foods contain Calcium and Magnesium, key components of bone health. Key Phytonutrients: EGCG and Lutein.",
+      "helpImage2": "HintImages/hint-cabbage"
+    },
+    {
+      "id": 2007,
+      "question": "Which foods can help your brain and start with the letter B?",
+      "questionAudio": "QuestionText/q-2007",
+      "level": 2,
+      "seconds": 11,
+      "correctAnswers": [ 0, 401, 402, 801 ],
+
+      "helpText1": "Both of these berries grow on a bush.",
+      "helpImage1": "HintImages/hint-b-blueberry",
+      "helpText2": "These are Antioxidant/Omega rich foods and can help brain deficits like balance, short term memory loss and coordination.",
+      "helpImage2": "HintImages/hint-blackberry"
+    },
+    {
+      "id": 2008,
+      "question": "Which foods can help your brain and start with the letter C?",
+      "questionAudio": "QuestionText/q-2008",
+      "level": 2,
+      "seconds": 11,
+      "correctAnswers": [ 0, 403, 409, 410, 411 ],
+
+      "helpText1": "These are Antioxidant/Omega rich foods and can help brain deficits like balance, short term memory loss and coordination.",
+      "helpImage1": "HintImages/hint-choco",
+      "helpText2": "",
+      "helpImage2": "HintImages/hint-purple-carrots"
+    },
+    {
+      "id": 2009,
+      "question": "Which two roots can help your lungs and and start with the letter G?",
+      "questionAudio": "QuestionText/q-2009",
+      "level": 2,
+      "seconds": 11,
+      "correctAnswers": [ 0, 508, 509 ],
+      "helpText1": "Both of these grow underground and are a bit spicy.",
+      "helpImage1": "HintImages/hint-character-garlic",
+      "helpText2": "White foods contain Vitamin A, a retinoid that can help maintain active levels of circulating natural “killer” cells, which have antiviral properties. Also helps support the lining of the respiratory tract.",
+      "helpImage2": "HintImages/hint-ginger"
+    },
+    {
+      "id": 2010,
+      "question": "Which foods can help your lungs and start with the letter C?",
+      "questionAudio": "QuestionText/q-2010",
+      "level": 2,
+      "seconds": 11,
+      "correctAnswers": [ 0, 504, 505, 506 ],
+      "helpText1": "One of these is a nut, one is a flower.",
+      "helpImage1": "HintImages/hint-cauliflower-1",
+      "helpText2": "White foods contain Vitamin A, a retinoid that can help maintain active levels of circulating natural “killer” cells, which have antiviral properties. Also helps support the lining of the respiratory tract.  White Phytonutrient: quercetin.",
+      "helpImage2": "HintImages/hint-coconut-1"
+    },
+    {
+      "id": 2011,
+      "question": "Which foods can help your heart and and make the beginning or middle /p/ sound?",
+      "questionAudio": "QuestionText/q-2011",
+      "level": 2,
+      "seconds": 11,
+      "correctAnswers": [ 0, 101, 103, 108, 109 ],
+
+      "helpText1": "Two of these start with the letter P, three have the middle /p/ sound.",
+      "helpImage1": "HintImages/hint-raspberry",
+      "helpText2": "These fruits sometimes have a sour punch because they are so full of vitamin C.  Red Phytonutrient: Lycopene.",
+      "helpImage2": "HintImages/hint-apple-tree"
+    },
+    {
+      "id": 2012,
+      "question": "Which fruits can help your heart and make the middle /m/ sound?",
+      "questionAudio": "QuestionText/q-2012",
+      "level": 2,
+      "seconds": 11,
+      "correctAnswers": [ 0, 108, 116, 807 ],
+
+      "helpText1": "Two of these grow on a vine, the other on a tree.",
+      "helpImage1": "HintImages/hint-character-tom-heart",
+      "helpText2": "These fruits sometimes have a sour punch because they are so full of vitamin C.  Red Phytonutrient: Lycopene.",
+      "helpImage2": "HintImages/hint-watermelon"
+    },
+    {
+      "id": 2013,
+      "question": "Which foods can help your eyes and have the short /a/ sound?",
+      "questionAudio": "QuestionText/q-2013",
+      "level": 2,
+      "seconds": 11,
+      "correctAnswers": [ 0, 203, 204, 208, 210, 211, 215, 217, 219 ],
+
+      "helpText1": "All of these but one grow on a tree.",
+      "helpImage1": "HintImages/hint-squash",
+      "helpText2": "Key Phytonutrients: beta-carotene and Lutein.  Beta Carotene is necessary for proper eye function in dim light. Lutein is a carotenoid that helps absorb blue light. This process is critical to vision.",
+      "helpImage2": "HintImages/hint-star-fruit"
+    },
+    {
+      "id": 2014,
+      "question": "Which foods can help your eyes and have the long /o/ sound?",
+      "questionAudio": "QuestionText/q-2014",
+      "level": 2,
+      "seconds": 11,
+      "correctAnswers": [ 0, 204, 205, 207, 209, 218, 220 ],
+
+      "helpText1": "Examples: sweet potato, yellow pepper",
+      "helpImage1": "HintImages/hint-pepper",
+      "helpText2": "Key Phytonutrients: beta-carotene and Lutein.  Beta Carotene is necessary for proper eye function in dim light. Lutein is a carotenoid that helps absorb blue light. This process is critical to vision.",
+      "helpImage2": "HintImages/hint-sweetpotato"
+    },
+    {
+      "id": 2015,
+      "question": "Which foods can help your bones and make the beginning or middle /k/ sound?",
+      "questionAudio": "QuestionText/q-2015",
+      "level": 2,
+      "seconds": 11,
+      "correctAnswers": [ 0, 301, 304, 307, 308, 311, 315, 316, 320, 326, 802 ],
+
+      "helpText1": "Examples: cactus, bok choy",
+      "helpImage1": "HintImages/hint-cactus",
+      "helpText2": "Green foods contain Calcium and Magnesium, key components of bone health. Key Phytonutrients: EGCG and Lutein.",
+      "helpImage2": "HintImages/hint-bok-choy"
+    },
+    {
+      "id": 2016,
+      "question": "Which vegetables can help your bones and make the beginning or middle /sp/ sound?",
+      "questionAudio": "QuestionText/q-2016",
+      "level": 2,
+      "seconds": 11,
+      "correctAnswers": [ 0, 303, 306, 324 ],
+      "helpText1": "Examples: asparagus, brussel sprouts",
+      "helpImage1": "HintImages/hint-asparagus",
+      "helpText2": "Green foods contain Calcium and Magnesium, key components of bone health. Key Phytonutrients: EGCG and Lutein.",
+      "helpImage2": "HintImages/hint-brussel-sprouts"
+    },
+    {
+      "id": 2017,
+      "question": "Which foods can help your lungs and make the /sh/ sound?",
+      "questionAudio": "QuestionText/q-2017",
+      "level": 2,
+      "seconds": 15,
+      "correctAnswers": [ 0, 113, 504, 509, 512 ],
+
+      "helpText1": "Examples: cashews, white/red radish",
+      "helpImage1": "HintImages/hint-radishes",
+      "helpText2": "White foods contain Vitamin A, a retinoid that can help maintain active levels of circulating natural “killer” cells, which have antiviral properties. Also helps support the lining of the respiratory tract.  White Phytonutrient: quercetin.",
+      "helpImage2": "HintImages/hint-mushroom"
+    },
+    {
+      "id": 2018,
+      "question": "Which foods can help your brain and make the /pl/ sound?",
+      "questionAudio": "QuestionText/q-2018",
+      "level": 2,
+      "seconds": 15,
+      "correctAnswers": [ 0, 404, 407, 408, 409, 410, 411, 412, 413, 414 ],
+
+      "helpText1": "Plums and eggplant and everything purple.",
+      "helpImage1": "HintImages/hint-plums",
+      "helpText2": "These are Antioxidant/Omega rich foods and can help brain deficits like balance, short term memory loss and coordination.",
+      "helpImage2": "HintImages/hint-eggplant"
+    },
+    {
+      "id": 2019,
+      "question": "Which foods can help your lungs and make the /n/ sound?",
+      "questionAudio": "QuestionText/q-2019",
+      "level": 2,
+      "seconds": 15,
+      "correctAnswers": [ 0, 112, 313, 501, 502, 503, 506, 507, 508, 511, 810 ],
+
+      "helpText1": "Examples: onions and white beans.",
+      "helpImage1": "HintImages/hint-character-onion",
+      "helpText2": "White foods contain Vitamin A, a retinoid that can help maintain active levels of circulating natural “killer” cells, which have antiviral properties. Also helps support the lining of the respiratory tract.  White Phytonutrient: quercetin.",
+      "helpImage2": "HintImages/hint-white-beans"
+    },
+    {
+      "id": 2020,
+      "question": "Which foods can help your lungs and make the short /i/ sound?",
+      "questionAudio": "QuestionText/q-2020",
+      "level": 2,
+      "seconds": 15,
+      "correctAnswers": [ 0, 113, 502, 505, 508, 512, 513, 811 ],
+
+      "helpText1": "Examples: garlic and asian pear.",
+      "helpImage1": "HintImages/hint-character-garlic",
+      "helpText2": "White foods contain Vitamin A, a retinoid that can help maintain active levels of circulating natural “killer” cells, which have antiviral properties. Also helps support the lining of the respiratory tract.  White Phytonutrient: quercetin.",
+      "helpImage2": "HintImages/hint-asian-pear"
+    },
+
+
+
+    {
+      "id": 3001,
+      "question": "Plants germinate from what?",
+      "questionAudio": "QuestionText/q-3001",
+      "level": 3,
+      "seconds": 12,
+      "correctAnswers": [ 0, 919 ],
+      "helpText1": "This word rhymes with weeds.",
+      "helpImage1": "HintImages/hint-seeds-man",
+      "helpText2": "Seeds are the reproductive structures of a flowering plant.  Most seeds have three basic parts: an embryo, a supply of nutrients to the embryo, and a protective seed coat.",
+      "helpImage2": "HintImages/hint-seeds-small"
+    },
+    {
+      "id": 3002,
+      "question": "Plants need the sun and what else to grow?",
+      "questionAudio": "QuestionText/q-3002",
+      "level": 3,
+      "seconds": 12,
+      "correctAnswers": [ 0, 925 ],
+      "helpText1": "We wash our body outside and inside with this.",
+      "helpImage1": "HintImages/hint-drinkingwater",
+      "helpText2": "Water covers about 71% of the earth's surface.  Water also makes up approximately 70% of a human's body weight.  Drinking water can help you lose weight by increasing your metabolism.",
+      "helpImage2": "HintImages/water-man"
+    },
+    {
+      "id": 3003,
+      "question": "Most plants' roots grow in the _______.",
+      "questionAudio": "QuestionText/q-3003",
+      "level": 3,
+      "seconds": 12,
+      "correctAnswers": [ 0, 920 ],
+      "helpText1": "Also called dirt.",
+      "helpImage1": "HintImages/hint-dirt",
+      "helpText2": "Soil is a living organism.  90% of the microorganisms in soil have not been identified.  Made up of 50% solid matter(minerals), 25% water(no matter how dry), and 25% air.",
+      "helpImage2": "HintImages/hint-soil-small"
+    },
+    {
+      "id": 3004,
+      "question": "Plants take in nutrients and water from their _______.",
+      "questionAudio": "QuestionText/q-3004",
+      "level": 3,
+      "seconds": 12,
+      "correctAnswers": [ 0, 918 ],
+      "helpText1": "Usually grow underground.",
+      "helpImage1": "HintImages/hint-roots",
+      "helpText2": "The soil provides water and nutrients to the plants through it's roots.  Many of these same nutrients also help your body grow healthy; examples: Potassium, Calcium, Magnesium, Copper, Iron, and Zinc.",
+      "helpImage2": "HintImages/hint-roots-onions"
+    },
+    {
+      "id": 3005,
+      "question": "The plant's ________ drink up the water and food like like a straw.",
+      "questionAudio": "QuestionText/q-3005",
+      "level": 3,
+      "seconds": 12,
+      "correctAnswers": [ 0, 922 ],
+      "helpText1": "Are like little trunks of trees.",
+      "helpImage1": "HintImages/hint-stems-straw",
+      "helpText2": "Stems are the main support of a plant.  They transport the fluid from the roots to the rest of the plant.",
+      "helpImage2": "HintImages/hint-stems-small"
+    },
+    {
+      "id": 3006,
+      "question": "The leaves use ________ for energy and food.",
+      "questionAudio": "QuestionText/q-3006",
+      "level": 3,
+      "seconds": 12,
+      "correctAnswers": [ 0, 921 ],
+      "helpText1": "We also use this light to make energy",
+      "helpImage1": "HintImages/hint-sun",
+      "helpText2": "Leaves make energy(food) for the plant from the sunlight.  This process is called photosynthesis.  Your body also needs sunlight to create Vitamin D, an important nutrient for health.",
+      "helpImage2": "HintImages/hint-roots-small"
+    },
+    {
+      "id": 3007,
+      "question": "A plant's ___________ turns into a fruit.",
+      "questionAudio": "QuestionText/q-3007",
+      "level": 3,
+      "seconds": 12,
+      "correctAnswers": [ 0, 904 ],
+      "helpText1": "Rhymes with power",
+      "helpImage1": "HintImages/hint-flower",
+      "helpText2": "Fruits grow from a plant's flower and contain the genetic seeds of the plant.",
+      "helpImage2": "HintImages/hint-flower-small"
+    },
+    {
+      "id": 3008,
+      "question": "Earthworms can bring oxygen and nutrients to the ___________.",
+      "questionAudio": "QuestionText/q-3008",
+      "level": 3,
+      "seconds": 12,
+      "correctAnswers": [ 0, 920 ],
+      "helpText1": "Earthworm",
+      "helpImage1": "HintImages/hint-worm",
+      "helpText2": "Earthworms support plant growth by breaking down old and decaying organic matter and turning it into humus soil.",
+      "helpImage2": "HintImages/hint-worm-small"
+    },
+
+    {
+      "id": 3009,
+      "question": "Moss is a plant and can grow on ___________.",
+      "questionAudio": "QuestionText/q-3009",
+      "level": 3,
+      "seconds": 12,
+      "correctAnswers": [ 0, 923, 917, 909 ],
+      "helpText1": "Trees, logs, rocks. ",
+      "helpImage1": "HintImages/hint-moss-tree",
+      "helpText2": "Mosses are generally green and grow in thick clumps or mats.  These small flowerless plants lack roots and attach themselves to logs, trees, and rocks through hairy protrusions called rhizoids.",
+      "helpImage2": "HintImages/hint-moss-rock"
+    },
+    {
+      "id": 3010,
+      "question": "This plant grows on water.",
+      "questionAudio": "QuestionText/q-3010",
+      "level": 3,
+      "seconds": 12,
+      "correctAnswers": [ 0, 908 ],
+      "helpText1": "Lily pad.",
+      "helpImage1": "HintImages/hint-water-lily",
+      "helpText2": "Are called water lilies and are found the world in temperate and tropical areas.",
+      "helpImage2": "HintImages/hint-waterlily-small"
+    },
+    {
+      "id": 3011,
+      "question": "The Venus Flytrap is a carnivore and eats ___________.",
+      "questionAudio": "QuestionText/q-3011",
+      "level": 3,
+      "seconds": 8,
+      "correctAnswers": [ 0, 612, 616, 901, 902, 905, 906, 910, 912, 916, 903 ],
+      "helpText1": "Venus Flytrap.",
+      "helpImage1": "HintImages/hint-venus-flytrap",
+      "helpText2": "There are over 500 species of carnivorous plants which eat tiny one or two cell organisms up to spiders and insects. These plants including the Venus Flytrap attract, capture, kill and digest their prey.",
+      "helpImage2": "HintImages/hint-flytrap-bugs"
+    },
+    {
+      "id": 3012,
+      "question": "These plants can cause itchy skin rashes.",
+      "questionAudio": "QuestionText/q-3012",
+      "level": 3,
+      "seconds": 12,
+      "correctAnswers": [ 0, 914 ],
+      "helpText1": "You can find these itchy plants along side of hiking trails.  Always stay on the trail!",
+      "helpImage1": "HintImages/hint-poison-oak",
+      "helpText2": "The leaves will feature three or five lobed leaflets and generally appear as a small shrub or a climbing woody vine.",
+      "helpImage2": "HintImages/hint-poison-ivy-small"
+    },
+    {
+      "id": 3013,
+      "question": "The largest living plant is the ___________.",
+      "questionAudio": "QuestionText/q-3013",
+      "level": 3,
+      "seconds": 12,
+      "correctAnswers": [ 0, 915 ],
+      "helpText1": "The tallest tree on earth.",
+      "helpImage1": "HintImages/hint-redwood",
+      "helpText2": "Your local coast redwood tree can grow to 300 feet or more.  These trees grow along California's cental coast up through the southern coast of Oregon.",
+      "helpImage2": "HintImages/hint-redwood-small"
+    },
+    {
+      "id": 3014,
+      "question": "This is made up of seven colors.",
+      "questionAudio": "QuestionText/q-3014",
+      "level": 3,
+      "seconds": 12,
+      "correctAnswers": [ 0, 926 ],
+      "helpText1": "Rainbows are a reflection of the sun's light within water crystals.  This is called the color spectrum.",
+      "helpImage1": "HintImages/hint-rainbow",
+      "helpText2": "The splitting of light through prisms is called dispersion and was discovered by Isaac Newton.",
+      "helpImage2": "HintImages/hint-rainbow-small"
+    },
+    {
+      "id": 3015,
+      "question": "These are edible roots of a plant.",
+      "questionAudio": "QuestionText/q-3015",
+      "level": 3,
+      "seconds": 12,
+      "correctAnswers": [ 0, 808, 811, 810, 102, 113, 218, 410, 414, 512, 513, 508 ],
+      "helpText1": "Examples are carrots, potatos, jicama, ginger, beats, radishes, onions and potatos.",
+      "helpImage1": "HintImages/hint-edible-roots",
+      "helpText2": "",
+      "helpImage2": "HintImages/hint-edible-roots-small"
+    },
+    {
+      "id": 3016,
+      "question": "These are edible stems of a plant.",
+      "questionAudio": "QuestionText/q-3016",
+      "level": 3,
+      "seconds": 12,
+      "correctAnswers": [ 0, 309, 303 ],
+      "helpText1": "Examples are celery and asparagus.",
+      "helpImage1": "HintImages/hint-edible-stems",
+      "helpText2": "",
+      "helpImage2": "HintImages/hint-edible-stems-small"
+    },
+    {
+      "id": 3017,
+      "question": "These are edible leaves of a plant.",
+      "questionAudio": "QuestionText/q-3017",
+      "level": 3,
+      "seconds": 12,
+      "correctAnswers": [ 0, 317, 308, 315, 324, 325 ],
+      "helpText1": "Examples are lettuce, cabbage, kale, Swiss Chard and spinach.",
+      "helpImage1": "HintImages/hint-edible-leaves",
+      "helpText2": "",
+      "helpImage2": "HintImages/hint-edible-leaves-small"
+    },
+    {
+      "id": 3018,
+      "question": "These are edible flowers of a plant.",
+      "questionAudio": "QuestionText/q-3018",
+      "level": 3,
+      "seconds": 12,
+      "correctAnswers": [ 0, 301, 802, 408, 505 ],
+      "helpText1": "Examples are artichokes, broccoli and cauliflower.",
+      "helpImage1": "HintImages/hint-edible-flower",
+      "helpText2": "",
+      "helpImage2": "HintImages/hint-edible-flower-small"
+    },
+    {
+      "id": 3019,
+      "question": "These three foods are commonly genetically modified (GMO).",
+      "questionAudio": "QuestionText/q-3019",
+      "level": 3,
+      "seconds": 12,
+      "correctAnswers": [ 0, 327, 210, 205 ],
+      "helpText1": "Soy, papaya and corn.",
+      "helpImage1": "HintImages/hint-gmo",
+      "helpText2": "There is controversy surrounding this kind of gene manipulation.  What is a GMO? Genetically modified organisms are living organisms that are not found in nature or through cross-breeding.",
+      "helpImage2": "HintImages/hint-gmo-small"
+    },
+    {
+      "id": 3020,
+      "question": "These are the most important plants to consider eating GMO free.",
+      "questionAudio": "QuestionText/q-3020",
+      "level": 3,
+      "seconds": 12,
+      "correctAnswers": [ 0, 327, 326, 210, 205 ],
+      "helpText1": "Examples are corn, papaya, zuccini, soy beans.",
+      "helpImage1": "HintImages/hint-gmo-corn",
+      "helpText2": "There is controversy surrounding this kind of gene manipulation.  What is a GMO? Genetically modified organisms are living organisms that are not found in nature or through cross-breeding.",
+      "helpImage2": "HintImages/hint-gmo-zuccini"
+    },
+    {
+      "id": 3021,
+      "question": "These plants typically have the most amount of pesticide residue.",
+      "questionAudio": "QuestionText/q-3021",
+      "level": 3,
+      "seconds": 11,
+      "correctAnswers": [ 0, 114, 324, 315, 208, 215, 412, 111, 212, 104, 213, 807, 309, 510 ],
+      "helpText1": "Examples are apples, strawberries, spinach, kale, grapes, peaches, cherries, tomatoes, celery, potatoes",
+      "helpImage1": "HintImages/hint-pesticide-residue",
+      "helpText2": "",
+      "helpImage2": "HintImages/hint-pesticide-residue-small"
+    },
+    {
+      "id": 3022,
+      "question": "These plants typically have the least amount of pesticide residue.",
+      "questionAudio": "QuestionText/q-3022",
+      "level": 3,
+      "seconds": 11,
+      "correctAnswers": [ 0, 302, 215, 112, 810, 210, 404, 316, 303, 802, 308, 505 ],
+      "helpText1": "Examples are asparagus, avocados, broccoli, cabbage, cantaloupe, eggplant, onions and pineapples.",
+      "helpImage1": "HintImages/hint-character-onion",
+      "helpText2": "",
+      "helpImage2": "HintImages/hint-character-broccoli-bro-small"
+    },
+    {
+      "id": 3023,
+      "question": "Small flowerless plants that grow in shady spots and in dense green clumps.",
+      "questionAudio": "QuestionText/q-3023",
+      "level": 3,
+      "seconds": 11,
+      "correctAnswers": [ 0, 911 ],
+      "helpText1": "Trees, logs, rocks. ",
+      "helpImage1": "HintImages/hint-moss-tree",
+      "helpText2": "Mosses are generally green and grow in thick clumps or mats.  These small flowerless plants lack roots and attach themselves to logs, trees, and rocks through hairy protrusions called rhizoids.",
+      "helpImage2": "HintImages/hint-moss-rock"
+    },
+    {
+      "id": 3024,
+      "question": "This carnivorous plant eats small insects.",
+      "questionAudio": "QuestionText/q-3024",
+      "level": 3,
+      "seconds": 11,
+      "correctAnswers": [ 0, 924 ],
+      "helpText1": "Venus Flytrap.",
+      "helpImage1": "HintImages/hint-venus-flytrap",
+      "helpText2": "There are over 500 species of carnivorous plants which eat tiny one or two cell organisms up to spiders and insects. These plants including the Venus Flytrap attract, capture, kill and digest their prey.",
+      "helpImage2": "HintImages/hint-flytrap-bugs"
+    },
+
+
+
+    {
+      "id": 4001,
+      "question": "Pick fruits or vegetables that can help your heart and grow on a vine.",
+      "questionAudio": "QuestionText/q-4001",
+      "level": 4,
+      "seconds": 12,
+      "correctAnswers": [ 0, 103, 105, 111, 110, 116, 807 ],
+      "helpText1": "Examples are bell peppers, cranberries, red grapes, red chilis, and watermelon.",
+      "helpImage1": "HintImages/hint-tom-heart-family",
+      "helpText2": "",
+      "helpImage2": "HintImages/hint-watermelon"
+    },
+    {
+      "id": 4002,
+      "question": "Pick fruits that can help your heart and grow on a tree.",
+      "questionAudio": "QuestionText/q-4002",
+      "level": 4,
+      "seconds": 12,
+      "correctAnswers": [ 0, 101, 104, 106, 107, 108, 117 ],
+      "helpText1": "Examples are apples, cherries, grapefruit, guava, and pomegranates.",
+      "helpImage1": "HintImages/hint-apple-tree",
+      "helpText2": "",
+      "helpImage2": "HintImages/hint-cherries"
+    },
+
+    {
+      "id": 4003,
+      "question": "Pick fruits that can help your heart and grow on a bush or shrub.",
+      "questionAudio": "QuestionText/q-4003",
+      "level": 4,
+      "seconds": 12,
+      "correctAnswers": [ 0, 109, 114 ],
+      "helpText1": "Examples include raspberries and strawberries.",
+      "helpImage1": "HintImages/hint-strawberry-bush",
+      "helpText2": "",
+      "helpImage2": "HintImages/hint-bush-raspberries"
+    },
+    {
+      "id": 4004,
+      "question": "Pick foods that can help your heart and that grow underground (roots).",
+      "questionAudio": "QuestionText/q-4004",
+      "level": 4,
+      "seconds": 12,
+      "correctAnswers": [ 0, 102, 113 ],
+      "helpText1": "Examples include beets and radishes.",
+      "helpImage1": "HintImages/hint-root-radish",
+      "helpText2": "",
+      "helpImage2": "HintImages/hint-root-radish-small"
+    },
+
+
+
+    {
+      "id": 4005,
+      "question": "Picks fruits or vegetables that can help your eyes and grow on a vine.",
+      "questionAudio": "QuestionText/q-4005",
+      "level": 4,
+      "seconds": 12,
+      "correctAnswers": [ 0, 203, 204, 216, 220 ],
+      "helpText1": "Examples include butternut squash, cantaloupe, pumpkins, and yellow peppers.",
+      "helpImage1": "HintImages/hint-pepper",
+      "helpText2": "",
+      "helpImage2": "HintImages/hint-pumpkin"
+    },
+    {
+      "id": 4006,
+      "question": "Pick fruits that can help your eyes and grow on a tree.",
+      "questionAudio": "QuestionText/q-4006",
+      "level": 4,
+      "seconds": 12,
+      "correctAnswers": [ 0, 201, 206, 207, 208, 209, 210, 211, 212, 213, 214, 217, 219 ],
+      "helpText1": "Examples include apricots, lemons, mangos, nectarines, oranges, passion fruit, peaches and papaya.",
+      "helpImage1": "HintImages/hint-star-fruit",
+      "helpText2": "",
+      "helpImage2": "HintImages/hint-persimmon"
+    },
+
+
+    {
+      "id": 4007,
+      "question": "Pick foods that can help your eyes and that grow underground.",
+      "questionAudio": "QuestionText/q-4007",
+      "level": 4,
+      "seconds": 12,
+      "correctAnswers": [ 0, 218, 808 ],
+      "helpText1": "Examples include carrots and sweet potatos.",
+      "helpImage1": "HintImages/hint-x-carrot",
+      "helpText2": "",
+      "helpImage2": "HintImages/hint-potato-digger"
+    },
+
+
+
+    {
+      "id": 4008,
+      "question": "Pick fruits or vegetables that can help your bones and grow on a vine.",
+      "questionAudio": "QuestionText/q-4008",
+      "level": 4,
+      "seconds": 12,
+      "correctAnswers": [ 0, 310, 311, 312, 314, 318, 320, 322, 326 ],
+      "helpText1": "Examples include chayote, cucumbers, green beans, honeydew, lima beans, okra, peas, and zucchini.",
+      "helpImage1": "HintImages/hint-cucumber",
+      "helpText2": "",
+      "helpImage2": "HintImages/hint-greenbeans"
+    },
+    {
+      "id": 4009,
+      "question": "Pick foods that can help your bones and grow on a tree.",
+      "questionAudio": "QuestionText/q-4009",
+      "level": 4,
+      "seconds": 12,
+      "correctAnswers": [ 0, 302, 316 ],
+      "helpText1": "Examples include avocado and kiwi.",
+      "helpImage1": "HintImages/hint-kiwi",
+      "helpText2": "",
+      "helpImage2": "HintImages/hint-avocado"
+    },
+
+    {
+      "id": 4010,
+      "question": "Pick vegetables that can help your bones and grow on a bush, shrub or stalk.",
+      "questionAudio": "QuestionText/q-4010",
+      "level": 4,
+      "seconds": 12,
+      "correctAnswers": [ 0, 802, 301, 303, 304, 306, 308, 309, 315, 317, 321, 324, 325, 327 ],
+      "helpText1": "Examples include artichokes, asparagus, bok choy, Brussels Sprouts, cabbage, celery, kale, and lettuce. ",
+      "helpImage1": "HintImages/hint-bro",
+      "helpText2": "",
+      "helpImage2": "HintImages/hint-brussel-sprouts"
+    },
+
+
+
+    {
+      "id": 4011,
+      "question": "Pick foods that can help your brain and grow on a vine.",
+      "questionAudio": "QuestionText/q-4011",
+      "level": 4,
+      "seconds": 12,
+      "correctAnswers": [ 0, 401, 404, 412, 413 ],
+      "helpText1": "Examples include black beans, eggplant, purple grapes, and purple peppers.",
+      "helpImage1": "HintImages/hint-grapes",
+      "helpText2": "",
+      "helpImage2": "HintImages/hint-eggplant"
+    },
+    {
+      "id": 4012,
+      "question": "Pick foods that can help your brain and grow on a tree.",
+      "questionAudio": "QuestionText/q-4012",
+      "level": 4,
+      "seconds": 12,
+      "correctAnswers": [ 0, 403, 405, 406, 407, 415 ],
+      "helpText1": "Examples include cocoa beans, elderberries, figs, plums, and walnuts.",
+      "helpImage1": "HintImages/hint-walnuts",
+      "helpText2": "",
+      "helpImage2": "HintImages/hint-figs"
+    },
+
+    {
+      "id": 4013,
+      "question": "Pick foods that can help your brain and grow on a bush, shrub or stalk.",
+      "questionAudio": "QuestionText/q-4013",
+      "level": 4,
+      "seconds": 12,
+      "correctAnswers": [ 0, 801, 402, 408, 409 ],
+      "helpText1": "Examples include blackberries, purple cabbage and blueberries.",
+      "helpImage1": "HintImages/hint-b-blueberry",
+      "helpText2": "",
+      "helpImage2": "HintImages/hint-cabbage"
+    },
+    {
+      "id": 4014,
+      "question": "Pick foods that can help your lungs and grow underground (roots).",
+      "questionAudio": "QuestionText/q-4014",
+      "level": 4,
+      "seconds": 12,
+      "correctAnswers": [ 0, 113, 313, 508, 510, 512, 513, 810, 811 ],
+      "helpText1": "Examples include ginger, garlic, onions, and white radishes.",
+      "helpImage1": "HintImages/hint-lill",
+      "helpText2": "",
+      "helpImage2": "HintImages/hint-ginger"
+    },
+
+    {
+      "id": 4015,
+      "question": "Pick foods that can help your lungs and grow on a tree.",
+      "questionAudio": "QuestionText/q-4015",
+      "level": 4,
+      "seconds": 12,
+      "correctAnswers": [ 0, 501, 502, 503, 504, 506, 507 ],
+      "helpText1": "Examples include almonds, asian pears, bananas, cashews, coconuts, and dragon fruit.",
+      "helpImage1": "HintImages/hint-coconut",
+      "helpText2": "",
+      "helpImage2": "HintImages/hint-asian-pear"
+    },
+
+    {
+      "id": 4016,
+      "question": "Pick a flowering vegetable that can help your lungs and grows on a stalk.",
+      "questionAudio": "QuestionText/q-4016",
+      "level": 4,
+      "seconds": 12,
+      "correctAnswers": [ 0, 505 ],
+      "helpText1": "Cauliflower",
+      "helpImage1": "HintImages/hint-cauliflower",
+      "helpText2": "",
+      "helpImage2": "HintImages/hint-cauliflower-small"
+    },
+
+    {
+      "id": 4017,
+      "question": "Pick a healthy fungus.",
+      "questionAudio": "QuestionText/q-4017",
+      "level": 4,
+      "seconds": 12,
+      "correctAnswers": [ 0, 509 ],
+      "helpText1": "Mushrooms",
+      "helpImage1": "HintImages/hint-mushroom",
+      "helpText2": "These are yummy on pizza, sauteed, in salad and in pasta.",
+      "helpImage2": "HintImages/hint-pizza"
+    },
+    {
+      "id": 4018,
+      "question": "________ is a hybrid fruit which is a cross between plum and apricot.",
+      "questionAudio": "QuestionText/q-4018",
+      "level": 4,
+      "seconds": 12,
+      "correctAnswers": [ 0, 117 ],
+      "helpText1": "Pluot is a cross between a plum and an apricot.",
+      "helpImage1": "HintImages/hint-pluot",
+      "helpText2": "Hybrid fruits are formed by controlling the genetic production of a fruit, creating a new species or cross-breed.",
+      "helpImage2": ""
+    },
+    {
+      "id": 4019,
+      "question": "These fruits have pits and are sometimes called 'Stone Fruits.'",
+      "questionAudio": "QuestionText/q-4019",
+      "level": 4,
+      "seconds": 12,
+      "correctAnswers": [ 0, 104, 201, 208, 212, 407, 117 ],
+      "helpText1": "A pulp or a fleshy fruit that encloses a stone, such as an apricot, cherry, peach, pluot or plum.",
+      "helpImage1": "HintImages/hint-stonefruit-peaches",
+      "helpText2": "",
+      "helpImage2": "HintImages/hint-stonefruits"
+    },
+    {
+      "id": 4020,
+      "question": "This was one of the first vegetables to be grown in space.",
+      "questionAudio": "QuestionText/q-4020",
+      "level": 4,
+      "seconds": 12,
+      "correctAnswers": [ 0, 510 ],
+      "helpText1": "Potatoes",
+      "helpImage1": "HintImages/hint-potatos",
+      "helpText2": "It is a challenge to grow plants in space without gravity, including the effects on root development and supplying the correct types of lighting.",
+      "helpImage2": "HintImages/hint-space-station"
+    },
+    {
+      "id": 4021,
+      "question": "This fruit can bounce when ripe.",
+      "questionAudio": "QuestionText/q-4021",
+      "level": 4,
+      "seconds": 12,
+      "correctAnswers": [ 0, 105 ],
+      "helpText1": "Cranberries are native to North America, are approximately 90% water, and have tiny pockets that allow them to float.",
+      "helpImage1": "HintImages/hint-cranberries-water",
+      "helpText2": "Cranberries can help reduce the risk of cardiovascular disease, and can help prevent urinary tract infections.",
+      "helpImage2": "HintImages/hint-cranberries"
+    },
+    {
+      "id": 4022,
+      "question": "These are citrus fruits.",
+      "questionAudio": "QuestionText/q-4022",
+      "level": 4,
+      "seconds": 12,
+      "correctAnswers": [ 0, 106, 206, 209, 219, 319 ],
+      "helpText1": "Examples include grapefruit, lemons, oranges, tangerines, and limes.",
+      "helpImage1": "HintImages/hint-citrus",
+      "helpText2": "Citrus fruits are high in Vitamin-C and are generally sour in taste.",
+      "helpImage2": "HintImages/hint-tangerines"
+    },
+    {
+      "id": 4023,
+      "question": "About how many seeds does a medium sized strawberry have.",
+      "questionAudio": "QuestionText/q-4023",
+      "level": 4,
+      "seconds": 12,
+      "correctAnswers": [ 0, 416 ],
+      "helpText1": "Strawberries are high in Vitamin-C and contain high amounts of potassium, which counters the effects of sodium in the body, helping to reduce blood pressure.",
+      "helpImage1": "HintImages/hint-strawberry",
+      "helpText2": "Strawberries are usually very high in pesticide residue, consider buying organic.",
+      "helpImage2": ""
+    },
+
+
+
+
+    {
+      "id": 5001,
+      "question": "Who is the superstar of pollination?",
+      "questionAudio": "QuestionText/q-5001",
+      "level": 5,
+      "seconds": 12,
+      "correctAnswers": [ 0, 812 ],
+      "helpText1": "Buzzy Bee",
+      "helpImage1": "HintImages/hint-buzzy-bee",
+      "helpText2": "Bees are great pollinators because they are fuzzy, and have an electromagnetic charge, helping the pollen stick to their body more easily.",
+      "helpImage2": "HintImages/hint-bees"
+    },
+    {
+      "id": 5002,
+      "question": "Who else flys and are pollinators?",
+      "questionAudio": "QuestionText/q-5002",
+      "level": 5,
+      "seconds": 12,
+      "correctAnswers": [ 0, 602, 612, 616, 803, 804, 910 ],
+      "helpText1": "A pollinator is an animal that moves pollen from the male part of the flower to the female part of the flower.",
+      "helpImage1": "HintImages/hint-button-butterfly",
+      "helpText2": "",
+      "helpImage2": "HintImages/hint-chip-the-bird"
+    },
+    {
+      "id": 5003,
+      "question": "These small animals are also pollinators.",
+      "questionAudio": "QuestionText/q-5003",
+      "level": 5,
+      "seconds": 12,
+      "correctAnswers": [ 0, 614, 621, 901 ],
+      "helpText1": "A pollinator is an animal that moves pollen from the male part of the flower to the female part of the flower.",
+      "helpImage1": "HintImages/hint-ant",
+      "helpText2": "",
+      "helpImage2": "HintImages/hint-rodent-mouse"
+    },
+    {
+      "id": 5004,
+      "question": "What else helps with pollination?",
+      "questionAudio": "QuestionText/q-5004",
+      "level": 5,
+      "seconds": 12,
+      "correctAnswers": [ 0, 628 ],
+      "helpText1": "Wind pollinates around 12% of the world's flowering plants.  These include several trees, ragweeds, grasses and cereal crops.",
+      "helpImage1": "HintImages/hint-wind",
+      "helpText2": "",
+      "helpImage2": ""
+    },
+    {
+      "id": 5005,
+      "question": "Who else helps with pollination?",
+      "questionAudio": "QuestionText/q-5005",
+      "level": 5,
+      "seconds": 12,
+      "correctAnswers": [ 0, 617 ],
+      "helpText1": "As the bee population decreases, humans are facing the task of acting as pollinators.",
+      "helpImage1": "HintImages/hint-human-pollination",
+      "helpText2": "",
+      "helpImage2": "HintImages/hint-grain-hands"
+    },
+    {
+      "id": 5006,
+      "question": "How do honeybees communicate?",
+      "questionAudio": "QuestionText/q-5006",
+      "level": 5,
+      "seconds": 12,
+      "correctAnswers": [ 0, 626 ],
+      "helpText1": "Honeybees perform this particular figure-eight dance to share information about the direction and distance to resources including nectar, pollen, water sources, and possible new locations.",
+      "helpImage1": "HintImages/hint-waggle-dance",
+      "helpText2": "",
+      "helpImage2": "",
+      "helpStyle": 2
+    },
+    {
+      "id": 5007,
+      "question": "How fast do honeybees fly?",
+      "questionAudio": "QuestionText/q-5007",
+      "level": 5,
+      "seconds": 12,
+      "correctAnswers": [ 0, 610 ],
+      "helpText1": "With fat round bodies and little wings to carry them, it is amazing that bees can fly.  They can, with speeds up to 15 MPH!",
+      "helpImage1": "HintImages/hint-flying-bee",
+      "helpText2": "",
+      "helpImage2": "HintImages/hint-bees-flying"
+    },
+    {
+      "id": 5008,
+      "question": "What are the three types of honeybees in a hive?",
+      "questionAudio": "QuestionText/q-5008",
+      "level": 5,
+      "seconds": 12,
+      "correctAnswers": [ 0, 619, 625, 609 ],
+      "helpText1": "One takes their job very seriously.",
+      "helpImage1": "HintImages/hint-worker-bee",
+      "helpText2": "One rhymes with 'green' and the other with 'flown.'",
+      "helpImage2": "HintImages/hint-drone"
+    },
+    {
+      "id": 5009,
+      "question": "What are the honeybees' predators?",
+      "questionAudio": "QuestionText/q-5009",
+      "level": 5,
+      "seconds": 12,
+      "correctAnswers": [ 0, 603, 605, 613, 624, 622, 620, 623, 627, 615 ],
+      "helpText1": "Honeybees face predators such as skunks, bears, and hive beetles.  Disease and herbicides can be devastating.",
+      "helpImage1": "HintImages/hint-skunk",
+      "helpText2": "Examples include birds, lizards, mice, mites, spiders, toads and wasps.",
+      "helpImage2": "HintImages/hint-bear"
+    },
+    {
+      "id": 5010,
+      "question": "How are people possibly endangering bees?",
+      "questionAudio": "QuestionText/q-5010",
+      "level": 5,
+      "seconds": 12,
+      "correctAnswers": [ 0, 607, 637 ],
+      "helpText1": "There has been speculation to why the honeybees populations are decreasing.  Some scientists blame cell tower radiation.",
+      "helpImage1": "HintImages/hint-pesticide",
+      "helpText2": "The overuse of herbicides is also being taken into account for the decrease in bee populations.",
+      "helpImage2": "HintImages/hint-cell-tower"
+    },
+    {
+      "id": 5011,
+      "question": "It takes two million flowers to make how much honey?",
+      "questionAudio": "QuestionText/q-5011",
+      "level": 5,
+      "seconds": 12,
+      "correctAnswers": [ 0, 632 ],
+      "helpText1": "Honey is made from a plant's nectar.  It never spoils if stored in an air-tight container.",
+      "helpImage1": "HintImages/hint-honey",
+      "helpText2": "Bees keep honey in wax structures known as honeycomb.",
+      "helpImage2": "HintImages/hint-honeycomb-small"
+    },
+    {
+      "id": 5012,
+      "question": "A queen bee can lay up to how many eggs in one day?",
+      "questionAudio": "QuestionText/q-5012",
+      "level": 5,
+      "seconds": 12,
+      "correctAnswers": [ 0, 631 ],
+      "helpText1": "There is only one queen bee in a hive.  She can lay up to 2,500 eggs per day.",
+      "helpImage1": "HintImages/hint-queen-bee",
+      "helpText2": "Queen bees mate with the male drone bees.",
+      "helpImage2": "HintImages/hint-honeycomb"
+    },
+    {
+      "id": 5013,
+      "question": "Honey bees are responsible for approximately what percentage of food we eat.",
+      "questionAudio": "QuestionText/q-5013",
+      "level": 5,
+      "seconds": 12,
+      "correctAnswers": [ 0, 633 ],
+      "helpText1": "Bees pollinate around 90 different food crops and about 80% of the world's plants.",
+      "helpImage1": "HintImages/hint-cherries",
+      "helpText2": "We can thank the bees for about 1 out of every 4 bites of food we eat.",
+      "helpImage2": "HintImages/hint-almonds"
+    },
+    {
+      "id": 5014,
+      "question": "Honey bee colonies live in __________.",
+      "questionAudio": "QuestionText/q-5014",
+      "level": 5,
+      "seconds": 12,
+      "correctAnswers": [ 0, 635 ],
+      "helpText1": "A hive is a house, a place where bees live.  A colony lives in a hive.",
+      "helpImage1": "HintImages/hint-hive",
+      "helpText2": "The family unit is called a colony.  It consists of a queen, workers, and a few months out of the year, drones.",
+      "helpImage2": "HintImages/hint-colony"
+    },
+    {
+      "id": 5015,
+      "question": "Flowers produce this fine yellow powder that is often found on bees.",
+      "questionAudio": "QuestionText/q-5015",
+      "level": 5,
+      "seconds": 12,
+      "correctAnswers": [ 0, 636 ],
+      "helpText1": "The pollen provides protein for bees.",
+      "helpImage1": "HintImages/hint-pollen-bee",
+      "helpText2": "",
+      "helpImage2": ""
+    },
+    {
+      "id": 5016,
+      "question": "Pollen is made on the plants _______.",
+      "questionAudio": "QuestionText/q-5016",
+      "level": 5,
+      "seconds": 12,
+      "correctAnswers": [ 0, 630 ],
+      "helpText1": "The stamen is the male part of the flower.",
+      "helpImage1": "HintImages/hint-stamen",
+      "helpText2": "",
+      "helpImage2": ""
+    },
+    {
+      "id": 5017,
+      "question": "To make seeds, pollen needs to move from a plant's stamen to a plant's __________.",
+      "questionAudio": "QuestionText/q-5017",
+      "level": 5,
+      "seconds": 12,
+      "correctAnswers": [ 0, 629 ],
+      "helpText1": "The pistil is the female part of the flower.",
+      "helpImage1": "HintImages/hint-pistil",
+      "helpText2": "Can you spot the stamen?",
+      "helpImage2": ""
+    },
+    {
+      "id": 5018,
+      "question": "When some flowers perceive the sound of buzzing bees, what gets sweeter?",
+      "questionAudio": "QuestionText/q-5018",
+      "level": 5,
+      "seconds": 12,
+      "correctAnswers": [ 0, 634 ],
+      "helpText1": "A study found that within 3 minutes, sugar levels increased between 12% and 20% in flowers exposed to bee sounds. ",
+      "helpImage1": "HintImages/hint-bee-nectar",
+      "helpText2": "The sugar in nectar provides energy for the bees.",
+      "helpImage2": "HintImages/hint-nectar-2"
+    },
+    {
+      "id": 5019,
+      "question": "Bees are especially attracted to these flowers.",
+      "questionAudio": "QuestionText/q-5019",
+      "level": 5,
+      "seconds": 12,
+      "correctAnswers": [ 0, 813, 514, 515 ],
+      "helpText1": "Sunflowers, Snapdragons and Marigolds.",
+      "helpImage1": "HintImages/hint-snapdragon",
+      "helpText2": "",
+      "helpImage2": "HintImages/hint-honeysuckle"
+    },
+    {
+      "id": 5020,
+      "question": "Bees are especially attracted to these flowering herbs.",
+      "questionAudio": "QuestionText/q-5020",
+      "level": 5,
+      "seconds": 12,
+      "correctAnswers": [ 0, 516, 517, 518 ],
+      "helpText1": "Lavender, Thyme, Rosemary",
+      "helpImage1": "HintImages/hint-rosemary",
+      "helpText2": "",
+      "helpImage2": "HintImages/hint-lavender"
+    },
+
+
+
+
+    {
+      "id": 6001,
+      "question": "Almonds rely on honey bees and grow in this state.",
+      "questionAudio": "QuestionText/q-6001",
+      "level": 6,
+      "seconds": 14,
+      "correctAnswers": [ 0, 1002 ],
+      "helpText1": "California",
+      "helpImage1": "HintImages/help-q-6001",
+      "helpText2": "",
+      "helpImage2": "",
+      "helpStyle": 1
+    },
+    {
+      "id": 6002,
+      "question": "Apples rely on honey bees and grow in these states.",
+      "questionAudio": "QuestionText/q-6002",
+      "level": 6,
+      "seconds": 14,
+      "correctAnswers": [ 0, 1002, 1008, 1012, 1017, 1021, 1022 ],
+      "helpText1": "California Michigan New York Pennsylvania Virginia Washington",
+      "helpImage1": "HintImages/help-q-6002",
+      "helpText2": "",
+      "helpImage2": "",
+      "helpStyle": 1
+    },
+    {
+      "id": 6003,
+      "question": "Broccoli relies on honey bees and grows in these states.",
+      "questionAudio": "QuestionText/q-6003",
+      "level": 6,
+      "seconds": 14,
+      "correctAnswers": [ 0, 1001, 1002, 1016, 1019 ],
+      "helpText1": "Arizona California Oregon Texas",
+      "helpImage1": "HintImages/help-q-6003",
+      "helpText2": "",
+      "helpImage2": "",
+      "helpStyle": 1
+    },
+    {
+      "id": 6004,
+      "question": "Carrots rely on honey bees and are grown in these states.",
+      "questionAudio": "QuestionText/q-6004",
+      "level": 6,
+      "seconds": 14,
+      "correctAnswers": [ 0, 1002, 1003, 1004, 1008, 1019, 1023 ],
+      "helpText1": "California Colorado Florida Michigan Texas Wisconsin",
+      "helpImage1": "HintImages/help-q-6004",
+      "helpText2": "",
+      "helpImage2": "",
+      "helpStyle": 1
+    },
+    {
+      "id": 6005,
+      "question": "Cherries rely on honey bees and are grown in these states",
+      "questionAudio": "QuestionText/q-6005",
+      "level": 6,
+      "seconds": 14,
+      "correctAnswers": [ 0, 1002, 1016, 1022 ],
+      "helpText1": "California Oregon Washington",
+      "helpImage1": "HintImages/help-q-6005",
+      "helpText2": "",
+      "helpImage2": "",
+      "helpStyle": 1
+    },
+
+    {
+      "id": 6006,
+      "question": "Cucumbers rely on honey bees and are grown in these states",
+      "questionAudio": "QuestionText/q-6006",
+      "level": 6,
+      "seconds": 14,
+      "correctAnswers": [ 0, 1002, 1008, 1013, 1015, 1019, 1023 ],
+      "helpText1": "California Michigan North Carolina, Ohio, Texas Wisconsin",
+      "helpImage1": "HintImages/help-q-6006",
+      "helpText2": "",
+      "helpImage2": "",
+      "helpStyle": 1
+    },
+    {
+      "id": 6007,
+      "question": "Onions rely on honey bees and are grown in these states.",
+      "questionAudio": "QuestionText/q-6007",
+      "level": 6,
+      "seconds": 14,
+      "correctAnswers": [ 0, 1002, 1006, 1009, 1011, 1012, 1014, 1015, 1020 ],
+      "helpText1": "California Idaho Minnesota New Mexico New York North Dakota Ohio, Utah",
+      "helpImage1": "HintImages/help-q-6007",
+      "helpText2": "",
+      "helpImage2": "",
+      "helpStyle": 1
+    },
+    {
+      "id": 6008,
+      "question": "Watermelon relies on honey bees and grows in these states.",
+      "questionAudio": "QuestionText/q-6008",
+      "level": 6,
+      "seconds": 14,
+      "correctAnswers": [ 0, 1002, 1004, 1005, 1019 ],
+      "helpText1": "California Florida Georgia Texas",
+      "helpImage1": "HintImages/help-q-6008",
+      "helpText2": "",
+      "helpImage2": "",
+      "helpStyle": 1
+    },
+    {
+      "id": 6009,
+      "question": "Squash relies on honey bees and grows in these states.",
+      "questionAudio": "QuestionText/q-6009",
+      "level": 6,
+      "seconds": 14,
+      "correctAnswers": [ 0, 1002, 1004, 1005, 1008, 1010 ],
+      "helpText1": "California Florida Georgia Michigan New Jersey",
+      "helpImage1": "HintImages/help-q-6009",
+      "helpText2": "",
+      "helpImage2": "",
+      "helpStyle": 1
+    },
+
+    {
+      "id": 6010,
+      "question": "Cantaloupe relies on honey bees and grows in these states.",
+      "questionAudio": "QuestionText/q-6010",
+      "level": 6,
+      "seconds": 14,
+      "correctAnswers": [ 0, 1001, 1002, 1005, 1007, 1019 ],
+      "helpText1": "Arizona California Georgia Indiana Texas",
+      "helpImage1": "HintImages/help-q-6010",
+      "helpText2": "",
+      "helpImage2": "",
+      "helpStyle": 1
+    },
+
+    {
+      "id": 6011,
+      "question": "Peaches rely on honey bees and grow in these states.",
+      "questionAudio": "QuestionText/q-6011",
+      "level": 6,
+      "seconds": 14,
+      "correctAnswers": [ 0, 1002, 1005, 1018 ],
+      "helpText1": "California Georgia South Carolina",
+      "helpImage1": "HintImages/help-q-6011",
+      "helpText2": "",
+      "helpImage2": "",
+      "helpStyle": 1
+    },
+
+    {
+      "id": 6012,
+      "question": "Which state has the most crops dependent upon honey bees?",
+      "questionAudio": "QuestionText/q-6012",
+      "level": 6,
+      "seconds": 14,
+      "correctAnswers": [ 0, 1002 ],
+      "helpText1": "California",
+      "helpImage1": "HintImages/help-q-6012",
+      "helpText2": "",
+      "helpImage2": "",
+      "helpStyle": 1
+    },
+    {
+      "id": 6013,
+      "question": "These states grow the most organic food per acre.",
+      "questionAudio": "QuestionText/q-6013",
+      "level": 6,
+      "seconds": 14,
+      "correctAnswers": [ 0, 1002, 1012, 1014, 1023, 1024 ],
+      "helpText1": "California New York North Dakota Wisconsin Montana",
+      "helpImage1": "HintImages/help-q-6013",
+      "helpText2": "",
+      "helpImage2": "",
+      "helpStyle": 1
+    },
+    {
+      "id": 6014,
+      "question": "These are the largest food producing states.",
+      "questionAudio": "QuestionText/q-6014",
+      "level": 6,
+      "seconds": 14,
+      "correctAnswers": [ 0 ],
+      "helpText1": "California Iowa Texas Nebraska Illinois",
+      "helpImage1": "HintImages/help-q-6014",
+      "helpText2": "",
+      "helpImage2": "",
+      "helpStyle": 1
+    },
+    {
+      "id": 6015,
+      "question": "These two US States are suitable for growing bananas.",
+      "questionAudio": "QuestionText/q-6015",
+      "level": 6,
+      "seconds": 14,
+      "correctAnswers": [ 0 ],
+      "helpText1": "Hawaii Florida",
+      "helpImage1": "HintImages/help-q-6015",
+      "helpText2": "",
+      "helpImage2": "",
+      "helpStyle": 1
+    },
+    {
+      "id": 6016,
+      "question": "What three states lead the way in dry bean production.",
+      "questionAudio": "QuestionText/q-6016",
+      "level": 6,
+      "seconds": 14,
+      "correctAnswers": [ 0 ],
+      "helpText1": "N Dakota Michigan Nebraska",
+      "helpImage1": "HintImages/help-q-6016",
+      "helpText2": "",
+      "helpImage2": "",
+      "helpStyle": 1
+    },
+    {
+      "id": 6017,
+      "question": "What state grows the most sunflowers.",
+      "questionAudio": "QuestionText/q-6017",
+      "level": 6,
+      "seconds": 14,
+      "correctAnswers": [ 0 ],
+      "helpText1": "South Dakota",
+      "helpImage1": "HintImages/help-q-6017",
+      "helpText2": "",
+      "helpImage2": "",
+      "helpStyle": 1
+    },
+    {
+      "id": 6018,
+      "question": "This state is known as the 'Sunflower State.'",
+      "questionAudio": "QuestionText/q-6018",
+      "level": 6,
+      "seconds": 14,
+      "correctAnswers": [ 0 ],
+      "helpText1": "Kansas",
+      "helpImage1": "HintImages/help-q-6018",
+      "helpText2": "",
+      "helpImage2": "",
+      "helpStyle": 1
+    },
+    {
+      "id": 6019,
+      "question": "This state is known as the 'Peach State.'",
+      "questionAudio": "QuestionText/q-6019",
+      "level": 6,
+      "seconds": 14,
+      "correctAnswers": [ 0 ],
+      "helpText1": "Georgia",
+      "helpImage1": "HintImages/help-q-6019",
+      "helpText2": "",
+      "helpImage2": "",
+      "helpStyle": 1
+    },
+    {
+      "id": 6020,
+      "question": "This state is known as the 'Beehive State.'",
+      "questionAudio": "QuestionText/q-6020",
+      "level": 6,
+      "seconds": 14,
+      "correctAnswers": [ 0 ],
+      "helpText1": "Utah",
+      "helpImage1": "HintImages/help-q-6020",
+      "helpText2": "",
+      "helpImage2": "",
+      "helpStyle": 1
+    },
+
+
+
+
+
+
+    {
+      "id": 7001,
+      "question": "Pick the top 3 countries that produce the most honey?",
+      "questionAudio": "QuestionText/q-7001",
+      "level": 7,
+      "seconds": 12,
+      "correctAnswers": [ 0, 703, 727, 730 ],
+      "helpText1": "USA, China, Turkey",
+      "helpImage1": "HintImages/help-q-7001",
+      "helpText2": "",
+      "helpImage2": "",
+      "helpStyle": 1
+    },
+
+    {
+      "id": 7002,
+      "question": "Pick the top producing countries for tomatoes.",
+      "questionAudio": "QuestionText/q-7002",
+      "level": 7,
+      "seconds": 12,
+      "correctAnswers": [ 0, 730, 703, 708, 727, 732 ],
+      "helpText1": "USA, China, India, Turkey, Egypt",
+      "helpImage1": "HintImages/help-q-7002",
+      "helpText2": "",
+      "helpImage2": "",
+      "helpStyle": 1
+    },
+
+    {
+      "id": 7003,
+      "question": "Pick the top producing countries for carrots.",
+      "questionAudio": "QuestionText/q-7003",
+      "level": 7,
+      "seconds": 12,
+      "correctAnswers": [ 0, 730, 729, 728, 723 ],
+      "helpText1": "USA, United Kingdom, Ukraine, Russia",
+      "helpImage1": "HintImages/help-q-7003",
+      "helpText2": "",
+      "helpImage2": "",
+      "helpStyle": 1
+    },
+
+    {
+      "id": 7004,
+      "question": "Pick the top producing countries for broccoli.",
+      "questionAudio": "QuestionText/q-7004",
+      "level": 7,
+      "seconds": 12,
+      "correctAnswers": [ 0, 730, 703, 708, 716, 705, 725 ],
+      "helpText1": "USA, China, India, Spain, Mexico, France",
+      "helpImage1": "HintImages/help-q-7004",
+      "helpText2": "",
+      "helpImage2": "",
+      "helpStyle": 1
+    },
+
+    {
+      "id": 7005,
+      "question": "Pick the top producing countries for blueberries.",
+      "questionAudio": "QuestionText/q-7005",
+      "level": 7,
+      "seconds": 12,
+      "correctAnswers": [ 0, 730, 702, 722, 718, 706 ],
+      "helpText1": "USA, Canada, Poland, Netherlands, Germany",
+      "helpImage1": "HintImages/help-q-7005",
+      "helpText2": "",
+      "helpImage2": "",
+      "helpStyle": 1
+    },
+
+    {
+      "id": 7006,
+      "question": "Pick the top producing countries for onions.",
+      "questionAudio": "QuestionText/q-7006",
+      "level": 7,
+      "seconds": 12,
+      "correctAnswers": [ 0, 730, 703, 708, 709, 723, 727, 720 ],
+      "helpText1": "USA, China, India, Iran, Russia, Turkey, Pakistan",
+      "helpImage1": "HintImages/help-q-7006",
+      "helpText2": "",
+      "helpImage2": "",
+      "helpStyle": 1
+    },
+
+    {
+      "id": 7007,
+      "question": "Pick the top producing countries for garlic.",
+      "questionAudio": "QuestionText/q-7007",
+      "level": 7,
+      "seconds": 12,
+      "correctAnswers": [ 0, 703, 715, 730, 732 ],
+      "helpText1": "USA, China, Egypt, South Korea",
+      "helpImage1": "HintImages/help-q-7007",
+      "helpText2": "",
+      "helpImage2": "",
+      "helpStyle": 1
+    },
+
+    {
+      "id": 7008,
+      "question": "Pick the top producing countries for asparagus.",
+      "questionAudio": "QuestionText/q-7008",
+      "level": 7,
+      "seconds": 12,
+      "correctAnswers": [ 0, 730, 703, 721, 716, 706, 718 ],
+      "helpText1": "USA, China, Peru, Mexico, Germany, Netherlands",
+      "helpImage1": "HintImages/help-q-7008",
+      "helpText2": "",
+      "helpImage2": "",
+      "helpStyle": 1
+    },
+
+    {
+      "id": 7009,
+      "question": "Pick the top producing countries for strawberries.",
+      "questionAudio": "QuestionText/q-7009",
+      "level": 7,
+      "seconds": 12,
+      "correctAnswers": [ 0, 730, 706, 714, 715, 716, 722, 723 ],
+      "helpText1": "USA, Germany, Japan, South Korea, Mexico, Poland, Russia",
+      "helpImage1": "HintImages/help-q-7009",
+      "helpText2": "",
+      "helpImage2": "",
+      "helpStyle": 1
+    },
+
+    {
+      "id": 7010,
+      "question": "Pick the top producing countries for cacao (chocolate).",
+      "questionAudio": "QuestionText/q-7010",
+      "level": 7,
+      "seconds": 12,
+      "correctAnswers": [ 0, 701, 707, 716, 719 ],
+      "helpText1": "Brazil,Ghana, Mexico, Nigeria",
+      "helpImage1": "HintImages/help-q-7010",
+      "helpText2": "",
+      "helpImage2": "",
+      "helpStyle": 1
+    },
+
+    {
+      "id": 7011,
+      "question": "Pick the top producing countries for almonds.",
+      "questionAudio": "QuestionText/q-7011",
+      "level": 7,
+      "seconds": 12,
+      "correctAnswers": [ 0, 730, 712, 717, 725 ],
+      "helpText1": "USA, Iran, Morocco, Spain",
+      "helpImage1": "HintImages/help-q-7011",
+      "helpText2": "",
+      "helpImage2": "",
+      "helpStyle": 1
+    },
+    {
+      "id": 7012,
+      "question": "Pick the countries with the most organic farmers.",
+      "questionAudio": "QuestionText/q-7012",
+      "level": 7,
+      "seconds": 12,
+      "correctAnswers": [ 0, 708, 716, 736, 737 ],
+      "helpText1": "India, Mexico, Uganda, Philippines",
+      "helpImage1": "HintImages/help-q-7012",
+      "helpText2": "",
+      "helpImage2": "",
+      "helpStyle": 1
+    },
+    {
+      "id": 7013,
+      "question": "These four countries produce the most food.",
+      "questionAudio": "QuestionText/q-7013",
+      "level": 7,
+      "seconds": 12,
+      "correctAnswers": [ 0, 730, 708, 701 ],
+      "helpText1": "USA, China, India, Brazil",
+      "helpImage1": "HintImages/help-q-7013",
+      "helpText2": "",
+      "helpImage2": "",
+      "helpStyle": 1
+    },
+    {
+      "id": 7014,
+      "question": "These are the top walnut producing countries.",
+      "questionAudio": "QuestionText/q-7014",
+      "level": 7,
+      "seconds": 12,
+      "correctAnswers": [ 0, 703, 730, 728, 738 ],
+      "helpText1": "China, USA, Ukraine, Chile",
+      "helpImage1": "HintImages/help-q-7014",
+      "helpText2": "",
+      "helpImage2": "",
+      "helpStyle": 1
+    },
+    {
+      "id": 7015,
+      "question": "These are the top avocado producing countries.",
+      "questionAudio": "QuestionText/q-7015",
+      "level": 7,
+      "seconds": 12,
+      "correctAnswers": [ 0, 730, 716, 721 ],
+      "helpText1": "USA, Mexico, Peru",
+      "helpImage1": "HintImages/help-q-7015",
+      "helpText2": "",
+      "helpImage2": "",
+      "helpStyle": 1
+    },
+    {
+      "id": 7016,
+      "question": "These are the top fruit producing countries.",
+      "questionAudio": "QuestionText/q-7016",
+      "level": 7,
+      "seconds": 12,
+      "correctAnswers": [ 0, 730, 708, 701, 730, 716 ],
+      "helpText1": "China, India, Brazil, USA, Mexico",
+      "helpImage1": "HintImages/help-q-7016",
+      "helpText2": "",
+      "helpImage2": "",
+      "helpStyle": 1
+    },
+    {
+      "id": 7017,
+      "question": "These countries produce the most vegetables.",
+      "questionAudio": "QuestionText/q-7017",
+      "level": 7,
+      "seconds": 12,
+      "correctAnswers": [ 0, 730, 708, 730, 727, 709 ],
+      "helpText1": "China, India, USA, Turkey, Iran",
+      "helpImage1": "HintImages/help-q-7017",
+      "helpText2": "",
+      "helpImage2": "",
+      "helpStyle": 1
+    },
+    {
+      "id": 7018,
+      "question": "Kiwis originated from this country.",
+      "questionAudio": "QuestionText/q-7018",
+      "level": 7,
+      "seconds": 12,
+      "correctAnswers": [ 0, 703 ],
+      "helpText1": "China",
+      "helpImage1": "HintImages/help-q-7018",
+      "helpText2": "",
+      "helpImage2": "",
+      "helpStyle": 1
+    },
+
+    {
+      "id": 7019,
+      "question": "These countries produce the most bananas.",
+      "questionAudio": "QuestionText/q-7019",
+      "level": 7,
+      "seconds": 12,
+      "correctAnswers": [ 0, 703, 708, 737, 704 ],
+      "helpText1": "China, India, Phillipines, Equador",
+      "helpImage1": "HintImages/help-q-7019",
+      "helpText2": "",
+      "helpImage2": "",
+      "helpStyle": 1
+    },
+    {
+      "id": 7020,
+      "question": "Honeybees are believed to have originated from this country in Southeast Asia.",
+      "questionAudio": "QuestionText/q-7020",
+      "level": 7,
+      "seconds": 12,
+      "correctAnswers": [ 0, 737 ],
+      "helpText1": "Philippines",
+      "helpImage1": "HintImages/help-q-7020",
+      "helpText2": "",
+      "helpImage2": "",
+      "helpStyle": 1
+    }
+  ]
+}
